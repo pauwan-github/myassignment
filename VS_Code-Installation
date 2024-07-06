@@ -1,0 +1,133 @@
+1. Downloading and Installing Visual Studio Code on Windows
+
+a. Downloading VS Code
+b. Installing of VS Code
+c. Open the downloaded installer (VSCodeSetup.exe).
+d. Accept the license agreement.
+e. Choose the installation location.
+f. Select additional tasks (like creating a desktop icon).
+g. Click "Install".
+h. Once the installation is complete, launch VS Code.
+i. Initial Configurations and Settings for an Optimal Coding Environment
+f. Theme: Choose a comfortable theme.
+
+2. Extensions
+
+a. Install necessary extensions by clicking the Extensions view icon on the Sidebar or pressing Ctrl+Shift+X.
+b. Essential extensions for web development include
+
+i.   ESLint - For JavaScript linting.
+ii   Prettier - For code formatting.
+iii. Live Server - For a local development server.
+iv.  Debugger for Chrome - For debugging JavaScript code.
+v.   GitLens - For enhanced Git capabilities.
+
+3. Main Components of the VS Code User Interface
+
+i.    Activity Bar - Located on the far left. Contains icons for different views like Explorer, Search, Source Control, Run and Debug, Extensions, etc.
+ii.   Side Bar - Displays different views like Explorer (for files), Source Control, Extensions, etc. Corresponds to the selected Activity Bar icon.
+iii.  Editor Group - The main area where files are opened and edited. You can split this into multiple editor groups for side-by-side editing.
+iv.   Status Bar - At the bottom of the window. Shows information about the current file and project, such as encoding, line endings, Git branch, errors/warnings, and more.
+
+4. Command Palette
+
+a. Accessing - Press Ctrl+Shift+P or F1.
+b. Usage - Allows quick access to commands and settings.
+
+Examples
+
+> Open Settings - Opens the settings editor.
+> Git: Clone - Clones a repository.
+> View: Toggle Terminal - Opens the integrated terminal.
+
+5. Extensions in VS Code
+
+a. Role: Enhance functionality, provide language support, tools, and features.
+b. Finding and Installing
+c. Open Extensions view (Ctrl+Shift+X).
+
+Search for desired extensions.
+
+Click "Install" to add an extension.
+
+Managing
+
+a. Disable, enable, or uninstall from the Extensions view.
+b. Examples for Web Development
+c. HTML, CSS, JavaScript support.
+d. Python or C++ extensions for additional language support.
+
+Essential Extensions for Web Development
+
+a. HTML, CSS, and JavaScript Snippets
+b. Debugger for Chrome
+c. Live Server
+d. Prettier - Code Formatter
+e. ESLint
+
+6. Using the Integrated Terminal
+
+Opening the Integrated Terminal
+Press Ctrl+ or go to View > Terminal.
+
+Advantages
+
+a. Seamlessly integrated into the workspace.
+b. Supports multiple terminal instances.
+c. Direct interaction with the project’s files and structure.
+
+7. Creating, Opening, and Managing Files and Folders
+
+a. Creating Files and Folders:
+Right-click in the Explorer view and select "New File" or "New Folder".
+b. Opening Files
+Double-click the file in the Explorer view or use Ctrl+P to search for and open files.
+Navigating Between Files:
+c. Use the Explorer view, Ctrl+Tab to switch between open files, or Ctrl+P to quickly search for a file.
+
+8. Customizing Settings
+
+a. Finding Settings
+   Go to File > Preferences > Settings or press Ctrl+.
+b. Changing Theme
+   File > Preferences > Color Theme.
+c. Adjusting Font Size
+   Search for "Font Size" in the Settings.
+d. Changing Key Bindings
+   File > Preferences > Keyboard Shortcuts or press Ctrl+K Ctrl+S.
+
+9. Debugging a Simple Program
+
+Set Up a Debug Configuration
+
+a. Go to the Run & Debug view by clicking the play icon in the Activity Bar or pressing Ctrl+Shift+D.
+b. Click on "create a launch.json file" and select the appropriate environment.
+c. Add Breakpoints
+d. Click on the left margin next to the line number in the editor.
+e. Start Debugging
+f. Press F5 to start the debugging session.
+g. Key Debugging Features
+
+Watch Expressions - Monitor variables.
+Call Stack - See the stack of function calls.
+Variables - View and edit variables.
+Debug Console - Execute commands in the context of the debug session.
+
+10. Using Source Control
+
+a. Integrating GitInstall Git from git-scm.com.
+b. Initializing a Repository
+c. Open your project in VS Code.
+d. Go to the Source Control view by clicking the source control icon on the Activity Bar or pressing
+e. Go to the Source Control view by clicking the source control icon on the Activity Bar or pressing Ctrl+Shift+G.
+f. Click "Initialize Repository".
+g. Making Commits
+h. Stage changes by clicking the + next to the files.
+i. Write a commit message and click the checkmark icon to commit.
+j. Pushing Changes to GitHub:
+k. Click on the "Publish to GitHub" button in the Source Control view.
+l. Follow the prompts to authenticate and select a repository.
+
+11.References
+Visual Studio Code Documentation
+Git Documentation
